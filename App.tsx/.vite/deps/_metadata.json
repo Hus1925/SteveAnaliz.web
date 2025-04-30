@@ -1,0 +1,37 @@
+{
+  "hash": "dd10f75f",
+  "configHash": "e08ccb16",
+  "lockfileHash": "fe1700d3",
+  "browserHash": "00bfd1d1",
+  "optimized": {
+    "react": {
+      "src": "../../.pnpm/react@18.3.1/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "84af91fa",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "5de14aa4",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../.pnpm/react@18.3.1/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "4315cd39",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../.pnpm/react@18.3.1/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "391e76cd",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-IZZUN6UV": {
+      "file": "chunk-IZZUN6UV.js"
+    }
+  }
+}
